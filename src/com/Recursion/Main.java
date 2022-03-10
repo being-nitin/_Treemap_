@@ -17,6 +17,7 @@ public class Main {
 
         // to remove a particular key value pair
         tmp.remove("nitish");
+        System.out.println(tmp);
 
     }
 }
