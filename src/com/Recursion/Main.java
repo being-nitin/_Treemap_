@@ -14,5 +14,9 @@ public class Main {
         tmp.put("alok",23);
         tmp.put("ravit",24);
 
+
+        // to remove a particular key value pair
+        tmp.remove("nitish");
+
     }
 }
